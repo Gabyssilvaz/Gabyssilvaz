@@ -1,7 +1,7 @@
 ## Bem-vindos ao meu perfil! 💮
 
 
-**Meu nome é**_Gabriela_
+**Meu nome é** _Gabriela_
 
 - 🔭 Essa conta é um projeto [Alura](https://www.alura.com.br)
 - 📧 Você poderá acessar meus projetos por aqui.
